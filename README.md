@@ -10,6 +10,7 @@ User can specify ttl values.By default it is set to 64.
 sudo ./ping "hostname"
 
 To specify your own ttl value
+
 sudo ./ping -t "(int)yourvalue" "hostname"
 
 ## Future additions
